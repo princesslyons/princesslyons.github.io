@@ -8,4 +8,4 @@ _site/
 .DS_Store
 
 # Folders
-_posts/
+# _posts/
