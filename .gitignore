@@ -6,3 +6,6 @@ _site/
 
 # Files
 .DS_Store
+
+# Folders
+_posts/
