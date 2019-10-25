@@ -16,15 +16,15 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joshua Peeples" #<i class="fas fa-home"></i> 
+title                    : "Princess Lyons" #<i class="fas fa-home"></i>
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Joshua Peeples"
+name                     : "Princess Lyons"
 description              : "PhD student at the University of Florida
                             in the Department of Electrical and Computer Engineering."
-url                      : "https://www.joshpeeples.com" #"https://jpeeps67.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jpeeps67/jpeeps67.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "princesslyons/princesslyons.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -65,7 +65,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : "https://www.joshpeeples.com" # blank (default) uses feed.xml
+  path                   : "https://www.princesslyons.com" # blank (default) uses feed.xml
 search                   : false #false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -108,44 +108,44 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joshua (Josh) Peeples"
-  avatar           : "/images/JPbio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "NSF and Mcknight Doctoral Fellow at the University of Florida
+  name             : "Princess Lyons"
+  avatar           : "/images/plyons2011.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student at the University of Florida
                       in the Department of Electrical and Computer Engineering."
   location         : "Gainseville, FL"
-  #email            : "jpeeples@ufl.edu"
+  #email            : "plyons@ufl.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jpeeples@ufl.edu
+      url: mailto:plyons@ufl.edu
     - label: "Google Scholar"
       icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?hl=en&user=Lksgi_8AAAAJ"
+      url: "https://scholar.google.com/citations?user=NFkozW8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jpeeps67"
+      url: "https://github.com/princesslyons"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jkpeeples"
+      url: "https://linkedin.com/in/princesslyons"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jpeeples67"
+      url: "https://twitter.com/LyonsInTheSwamp"
 
 # Site Footer
 footer:
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?hl=en&user=Lksgi_8AAAAJ"
+      url: "https://scholar.google.com/citations?user=NFkozW8AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/jpeeps67"
+      url: "https://github.com/princesslyons"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/jkpeeples"
+      url: "https://linkedin.com/in/princesslyons"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jpeeples67"
+      url: "https://twitter.com/LyonsInTheSwamp"
 
 
 # Reading Files
@@ -296,4 +296,3 @@ defaults:
       layout: single
       read_time: false
       author_profile: true
-
