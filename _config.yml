@@ -109,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Princess Lyons"
-  avatar           : "/images/plyons2011.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student at the University of Florida
                       in the Department of Electrical and Computer Engineering."
   location         : "Gainseville, FL"
