@@ -1,8 +1,12 @@
-- name: Home
-  link: /
-- name: About
-  link: /about.html
-- name: Blog
-  link: /blog.html
-- name: Staff
-  link: /staff.html
+# main links
+main:
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Research"
+    url: /research/
+  - title: "Publications & Presentations"
+    url: /present_pubs/
+  - title: "Curriculum Vitae"
+    url: /documents/Joshua Peeples CV.pdf
+  - title: "Connect"
+    url: /connect/
