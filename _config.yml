@@ -20,7 +20,7 @@ title                    : "Princess Lyons" #<i class="fas fa-home"></i>
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Princess Lyons"
-description              : "ECE PhD student and Fútbol enthusiast at the University of Florida. #ManCity #Barça #PSG"
+description              : "ECE PhD student and Fútbol enthusiast at the University of Florida :computer: :bar_chart: :soccer:"
 url                      : "https://www.princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "princesslyons/princesslyons.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Princess Lyons"
   avatar           : "/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ECE PhD student and Fútbol enthusiast at the University of Florida :computer: :bar_chart: :soccer:"
+  bio              : "ECE PhD student and Fútbol enthusiast at the University of Florida. #ManCity #Barça #PSG"
   location         : "Gainesville, FL"
   #email            : "plyons@ufl.edu"
   links:
