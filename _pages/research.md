@@ -16,8 +16,8 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ## Current Research Projects
 
-#### Multi-Language Authorship Attribution
-###### Machine Learning, Data Analytics, Natural Language Processing
+* **Multi-Language Authorship Attribution**
+  * Machine Learning, Data Analytics, Natural Language Processing
 
 ## Publications
 ### Conference
@@ -29,11 +29,11 @@ I conduct research in the Machine Learning and Sensing Lab on seafloor segmentat
 
 ## Past Research Projects
 
-#### Object Detection in Synthetic Aperture SONAR Imagery
-###### Machine Learning, Image Processing
+* **Object Detection in Synthetic Aperture SONAR Imagery**
+  * Machine Learning, Image Processing
 
-#### Heartbeat Characterization of Ballistocardiogram Signals
-###### Signal Processing, Machine Learning, Pattern Recognition
+* **Heartbeat Characterization of Ballistocardiogram Signals**
+  * Signal Processing, Machine Learning, Pattern Recognition
 
-#### Hyperspectral characterization of HLB Infected Orange Trees
-###### Machine Learning, Hyperspectral Image Analysis, Image Processing
+* **Hyperspectral characterization of HLB Infected Orange Trees**
+  * Machine Learning, Hyperspectral Image Analysis, Image Processing
