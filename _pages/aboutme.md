@@ -7,16 +7,24 @@ sitemap: true
 modified: 2019-10-25
 ---
 
+# Education
+
+## Does
+### This
+#### Really
+##### Not
+###### Work?
+
 ## Education
 
-### Master of Science, Electrical and Computer Engineering
-#### University of Florida
-##### December 2019
+* **Master of Science, Electrical and Computer Engineering**
+  * University of Florida
+  * December 2019
 
-### Dual Bachelor of Science, Electrical and Computer Engineering, Honors Scholar
-###### Minors: Computer Science, Mathematics, Spanish
-#### University of Missouri - Columbia
-##### May 2017
+* **Dual Bachelor of Science, Electrical and Computer Engineering, Honors Scholar**
+  * Minors: Computer Science, Mathematics, Spanish
+  * University of Missouri - Columbia
+  * May 2017
 
 <!-- ### Doctor of Philosophy, Electrical and Computer Engineering
 
