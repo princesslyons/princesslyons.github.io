@@ -7,30 +7,24 @@ sitemap: true
 modified: 2019-10-25
 ---
 
-# Education
-
-## Does
-### This
-#### Really
-##### Not
-###### Work?
-
 ## Education
 
 * **Master of Science, Electrical and Computer Engineering**
-  * University of Florida
-  * December 2019
+  * University of Florida, December 2019
 
 * **Dual Bachelor of Science, Electrical and Computer Engineering, Honors Scholar**
   * Minors: Computer Science, Mathematics, Spanish
-  * University of Missouri - Columbia
-  * May 2017
+  * University of Missouri - Columbia, May 2017
 
-<!-- ### Doctor of Philosophy, Electrical and Computer Engineering
+## Education 2
+### Master of Science, Electrical and Computer Engineering
+##### University of Florida
+##### December 2019
 
-#### University of Florida
-
-##### June 2017 - Present -->
+### Dual Bachelor of Science, Electrical and Computer Engineering, Honors Scholar
+Minors: Computer Science, Mathematics, Spanish
+##### University of Missouri - Columbia
+##### May 2017  
 
 <!-- Hi! My name is Joshua Peeples (feel free to call me Josh). I am from Alabaster, Alabama and I received my B.S. in Electrical Engineering with a minor in Mathematics from the University of Alabama at Birmingham (UAB). After my graduation from UAB, I decided to pursue a [Ph.D. in Machine Learning](https://faculty.eng.ufl.edu/machine-learning/2017/03/welcome-new-phd-student-joshua-peeples/) at the
 University of Florida (UF) in the Department of Electrical and Computer Engineering (ECE). I am currently working with
