@@ -1,22 +1,20 @@
 ---
 permalink: /research/
-title: "Research"
+title: "Research + Publications"
 
 excerpt: "Princess Lyons Research"
 layout: single
 author_profile: true
 sitemap: true
-modified: 2019-09-08
+modified: 2019-10-28
 ---
 ### Research Interests
 Machine Learning, Data Analytics, Biometrics, Pattern Recognition, Image Processing, Natural Language Processing
-
 
 <!-- ## Summary
 I conduct research in the Machine Learning and Sensing Lab...-->
 
 ## Current Research Projects
-
 * **Multi-Language Authorship Attribution**
   * Machine Learning, Data Analytics, Natural Language Processing
 
@@ -29,7 +27,6 @@ I conduct research in the Machine Learning and Sensing Lab...-->
 1. C. Jiao, B. Su, **P. Lyons**, A. Zare, K. C. Ho and M. Skubic, "[Multiple Instance Dictionary Learning for Beat-to-Beat Heart Rate Monitoring From Ballistocardiograms](https://ieeexplore.ieee.org/document/8307229)," in IEEE Transactions on Biomedical Engineering, vol. 65, no. 11, pp. 2634-2648, Nov. 2018.
 
 ## Past Research Projects
-
 * **Object Detection in Synthetic Aperture SONAR Imagery**
   * Machine Learning, Image Processing
 
