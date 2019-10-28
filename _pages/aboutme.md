@@ -11,12 +11,12 @@ modified: 2019-10-25
 
 ### Master of Science, Electrical and Computer Engineering
 #### University of Florida
-##### August 2017 - December 2019
+##### December 2019
 
 ### Dual Bachelor of Science, Electrical and Computer Engineering, Honors Scholar
-###### Minors: (Computer Science, Mathematics, Spanish)
+###### Minors: Computer Science, Mathematics, Spanish
 #### University of Missouri - Columbia
-##### August 2011 - May 2017
+##### May 2017
 
 <!-- ### Doctor of Philosophy, Electrical and Computer Engineering
 

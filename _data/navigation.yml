@@ -8,5 +8,5 @@ main:
   #  url: /present_pubs/
   - title: "Curriculum Vitae"
     url: /documents/Princess Lyons CV ECE.pdf
-  - title: "Connect"
-    url: /connect/
+  # - title: "Connect"
+  #  url: /connect/
