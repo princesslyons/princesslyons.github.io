@@ -20,8 +20,8 @@ title                    : "Princess Lyons" #<i class="fas fa-home"></i>
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Princess Lyons"
-description              : "PhD student and Fútbol enthusiast at the University of Florida in the Department of Electrical and Computer Engineering. #ManCity #Barça #PSG"
-url                      : "https://princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "ECE PhD student and Fútbol enthusiast at the University of Florida. #ManCity #Barça #PSG"
+url                      : "https://www.princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "princesslyons/princesslyons.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
