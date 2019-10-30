@@ -33,5 +33,5 @@ I conduct research in the Machine Learning and Sensing Lab...-->
 * **Heartbeat Characterization of Ballistocardiogram Signals**
   * Signal Processing, Machine Learning, Pattern Recognition
 
-* **Hyperspectral characterization of HLB Infected Orange Trees**
+* **HLB Detection in Orange Trees**
   * Machine Learning, Hyperspectral Image Analysis, Image Processing
