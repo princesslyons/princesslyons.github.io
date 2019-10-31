@@ -8,7 +8,7 @@ modified: 2019-10-25
 ---
 # Hi, I'm Princess!
 
-I'm a downtown Chicago-born and raised, computer engineer and soccer enthusiast who enjoys watching Netflix and telenovelas, traveling and most importantly tacos!
+I'm a downtown Chicago-born and raised, computer engineer and soccer enthusiast who enjoys watching Netflix and telenovelas, traveling and most importantly tacos! [Master of Science](#Education)
 
 I'm currently a Ph.D. student at the University of Florida (UF) in the Biometrics and Machine Learning lab, working with [Dr. Damon Woodard](http://damonwoodard.com). Here, I'm working on topics such as data analytics, machine learning and natural language processing. My current project involves multi-language authorship attribution. How did I get here?
 
