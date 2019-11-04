@@ -28,7 +28,7 @@ I conduct research in the Machine Learning and Sensing Lab...-->
 
 ## Past Research Projects
 * **Object Detection in Synthetic Aperture SONAR Imagery**
-  * Machine Learning, Image Processing
+  * Machine Learning, Image Processing, Algorithm Development
 
 * **Heartbeat Characterization of Ballistocardiogram Signals**
   * Signal Processing, Machine Learning, Pattern Recognition
