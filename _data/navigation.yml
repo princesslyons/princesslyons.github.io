@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
-  - title: "Projects"
-    url: /projects/
-  - title: "Publications"
-    url: /publications/
-  - title: "Resume"
-    url: /resume/
+  - title: "Research"
+    url: /research/
+  - title: "Leisure"
+    url: /leisure/
+  - title: "Curriculum Vitae"
+    url: /documents/Princess Lyons CV ECE.pdf
+  - title: "About Me"
+    url: /aboutme/
+  # - title: "Connect"
+  #  url: /connect/
