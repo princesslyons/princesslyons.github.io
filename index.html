@@ -1,4 +1,37 @@
 ---
-layout: home
-author_profile: true
+title: "James Bocinsky"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/UFcampus.jpg
+  cta_label: "About"
+  cta_url: "/about/"
+  caption: "Photo: University of Florida"
+excerpt: "M.S. ECE, Machine Learning, University of Florida."
+intro: 
+  - excerpt: '*"You can not cross the sea merely by standing and staring at the water"* - Tagore'
+feature_row:
+  - image_path: /assets/images/publicationsImage.jpg
+    title: "Publications"
+    excerpt: "My publications"
+    btn_label: "Check it out"
+    btn_class: "btn--primary"
+    url: "/publications/"
+  - image_path: assets/images/seniorProjectCropped.jpg
+    title: "Projects"
+    excerpt: "My completed projects"
+    btn_label: "Check it out"
+    btn_class: "btn--primary"
+    url: "/projects/"
+  - image_path: /assets/images/resumeBW.jpg
+    title: "Resume"
+    excerpt: "My resume"
+    btn_label: "Check it out"
+    btn_class: "btn--primary"
+    url: "/resume/"
 ---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
