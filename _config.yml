@@ -152,6 +152,7 @@ include:
   - "_pages"
   - "_posts"
   - "images"
+  _ "_layouts"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
