@@ -5,7 +5,7 @@ main:
   - title: "Leisure"
     url: /leisure/
   - title: "Curriculum Vitae"
-    url: /documents/Princess Lyons CV ECE.pdf
+    url: /assets/documents/Princess Lyons CV ECE.pdf
   - title: "About Me"
     url: /aboutme/
   # - title: "Connect"
