@@ -15,7 +15,7 @@ excerpt: ""
 intro:
   - excerpt: 'Centered with `type="center"`'
 feature_row:
-  - image_path: images/unsplash-gallery-image-1-th.jpg
+  - image_path: /images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
