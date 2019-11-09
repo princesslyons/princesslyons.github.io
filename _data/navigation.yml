@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Research"
-    url: /research/
-  - title: "Leisure"
-    url: /leisure/
-  - title: "Curriculum Vitae"
-    url: /documents/Princess Lyons CV ECE.pdf
-  - title: "About Me"
-    url: /aboutme/
-  # - title: "Connect"
-  #  url: /connect/
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
