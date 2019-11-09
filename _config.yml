@@ -83,7 +83,7 @@ facebook:
   username:
   app_id:
   publisher:
-og_image: "/favicons/mstile-150x150.png" # Open Graph/Twitter default site image
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Princess Lyons"
-  avatar           : "/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ECE PhD student and Fútbol enthusiast at the University of Florida. #ManCity #Barça #PSG"
   location         : "Gainesville, FL"
   #email            : "plyons@ufl.edu"
