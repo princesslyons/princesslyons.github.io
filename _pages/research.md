@@ -15,7 +15,7 @@ Machine Learning, Data Analytics, Biometrics, Pattern Recognition, Image Process
 I conduct research in the Machine Learning and Sensing Lab...-->
 
 ## Current Research Projects
-* **Multi-Language Authorship Attribution**
+* **Cross-Lingual Authorship Attribution**
   * Machine Learning, Data Analytics, Natural Language Processing
 
 ## Publications
