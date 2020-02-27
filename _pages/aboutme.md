@@ -19,6 +19,9 @@ After undergrad, I enrolled in the masters program at UF where I studied machine
 * **Master of Science, Electrical and Computer Engineering**
   * University of Florida, December 2019
 
-* **Dual Bachelor of Science, Electrical and Computer Engineering, Honors Scholar**
+* **Bachelor of Science, Computer Engineering, Honors Scholar**
   * Minors: Computer Science, Mathematics, Spanish
+  * University of Missouri - Columbia, May 2017
+
+* **Bachelor of Science, Electical Engineering, Honors Scholar**
   * University of Missouri - Columbia, May 2017
