@@ -73,30 +73,6 @@
         </li>
       {% endif %}
 
-      {% if author.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.facebook %}
-        <li>
-          <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
-          </a>
-        </li>
-      {% endif %}
-
-      {% if author.google_plus %}
-        <li>
-          <a href="https://plus.google.com/{{ author.google_plus }}" itemprop="sameAs">
-            <i class="fab fa-fw fa-google-plus-square" aria-hidden="true"></i> Google+
-          </a>
-        </li>
-      {% endif %}
-
       {% if author.linkedin %}
         <li>
           <a href="https://www.linkedin.com/in/{{ author.linkedin }}" itemprop="sameAs">
@@ -109,6 +85,22 @@
         <li>
           <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs">
             <i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.twitter %}
+        <li>
+          <a href="https://twitter.com/{{ author.twitter }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter
+          </a>
+        </li>
+      {% endif %}
+
+      {% if author.facebook %}
+        <li>
+          <a href="https://www.facebook.com/{{ author.facebook }}" itemprop="sameAs">
+            <i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook
           </a>
         </li>
       {% endif %}
@@ -260,7 +252,7 @@
       {% if author.orcid %}
         <li>
           <a href="https://orcid.org/{{ author.orcid }}" itemprop="sameAs">
-            <i class="fab fa-orcid" aria-hidden="true"></i> ORCID
+            <i class="fab fa-fw fa-orcid" aria-hidden="true"></i> ORCID
           </a>
         </li>
       {% endif %}
