@@ -110,7 +110,7 @@ author:
   avatar           : "/assets/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ECE Ph.D. student and Fútbol enthusiast at the University of Florida"
   location         : "Gainesville, FL"
-  email            : "plyons126@outlook.com"
+  email            : "princesslyons@outlook.com"
   linkedin         : "princesslyons"
   github           : "princesslyons"
   # links:
@@ -132,16 +132,19 @@ author:
 
 # Site Footer
 footer:
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?user=NFkozW8AAAAJ&hl=en"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/princesslyons"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/princesslyons"
+  email            : "princesslyons@outlook.com"
+  linkedin         : "princesslyons"
+  github           : "princesslyons"
+  # links:
+    # - label: "Google Scholar"
+    #   icon: "fas fa-fw fa-user-graduate"
+    #   url: "https://scholar.google.com/citations?user=NFkozW8AAAAJ&hl=en"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/princesslyons"
+    # - label: "LinkedIn"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://linkedin.com/in/princesslyons"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/LyonsInTheSwamp"
