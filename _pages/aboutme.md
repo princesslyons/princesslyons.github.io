@@ -33,4 +33,4 @@ After undergrad, I enrolled in the masters program at UF where I studied machine
 
 ## Acknowledgements
 * My mother, who taught and cultivated an engineer: [Princetta J. Griffin-Lyons](/assets/documents/PrincettaLyons2022.pdf)
-  * [Link to her page](/princetta/)
+  * [Link to her page](/aboutme/princetta/)
