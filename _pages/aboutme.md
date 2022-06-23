@@ -32,5 +32,4 @@ After undergrad, I enrolled in the masters program at UF where I studied machine
   * University of Missouri - Columbia, May 2017
 
 ## Acknowledgements
-* My mother, who taught and cultivated an engineer: [Princetta J. Griffin-Lyons](/assets/documents/PrincettaLyons2022.pdf)
-  * [Link to her page](/aboutme/princetta/)
+* My mother, who taught and cultivated an engineer: [Princetta J. Griffin-Lyons](/aboutme/princetta/)
