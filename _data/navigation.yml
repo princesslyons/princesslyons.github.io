@@ -8,5 +8,8 @@ main:
     url: /assets/documents/Lyons Princess - CV.pdf
   - title: "About Me"
     url: /aboutme/
+  - title: "Dedication"
+    url: /dedication/
+
   # - title: "Connect"
   #  url: /connect/
