@@ -6,7 +6,7 @@ author_profile: true
 sitemap: true
 modified: 2022-06-23
 ---
-## About Me:
+## Where to start?
 * [Who Am I?](#hi,-i'm-princess!)
 * [Education](#education)
 * [Acknowledgements](#acknowledgements)
@@ -33,3 +33,4 @@ After undergrad, I enrolled in the masters program at UF where I studied machine
 
 ## Acknowledgements
 * My mother, who taught and cultivated an engineer: [Princetta J. Griffin-Lyons](/assets/documents/PrincettaLyons2022.pdf)
+  * [Link to her page](/princetta/)

@@ -1,6 +1,6 @@
 ---
-permalink: /dedication/
-title: "Dedication"
+permalink: /aboutme/princetta/
+title: "Princetta J. Griffin-Lyons"
 layout: single
 author_profile: true
 sitemap: true
