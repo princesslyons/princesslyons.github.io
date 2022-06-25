@@ -8,8 +8,9 @@ modified: 2022-06-23
 ---
 
 * View Princetta's Photo Album here: [Link](https://photos.app.goo.gl/vYpyf7Nq2TYtK9dZ6)
-![Graduation](/assets/images/family/MU_Graduation2017_64.JPG)
 * [Obituary](/assets/documents/PrincettaLyons2022.pdf)
+![Graduation](/assets/images/family/MU_Graduation2017_64.JPG)
+
 <!-- * [Slideshow](#photos) -->
 
 
