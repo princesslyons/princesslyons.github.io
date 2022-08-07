@@ -7,7 +7,8 @@ sitemap: true
 modified: 2022-06-23
 ---
 
-<video src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129670&authkey=AEf1L9l7dTR4-HE" controls="controls" style="max-width: 730px;">
+<video>
+src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129670&authkey=AEf1L9l7dTR4-HE"
 </video>
 
 <!-- <video> src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129670&authkey=AEf1L9l7dTR4-HE" controls="controls" style="max-width: 730px;" </video> -->
