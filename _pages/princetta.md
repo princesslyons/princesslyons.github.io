@@ -16,7 +16,7 @@ Forever dedicated to my loving mother who taught and cultivated an engineer. My 
 View Princetta's
 * [Photo Album](https://photos.app.goo.gl/vYpyf7Nq2TYtK9dZ6)
 * [Obituary](/assets/documents/PrincettaLyons2022.pdf)
-* [Slideshow](#slideshow)
+<!-- * [Slideshow](#slideshow) -->
 
 <iframe src="https://player.vimeo.com/video/737241988?h=ec9052bd4c&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Princetta&amp;#039;s Slideshow"></iframe>
 
