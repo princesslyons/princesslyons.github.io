@@ -7,7 +7,9 @@ sitemap: true
 modified: 2022-06-23
 ---
 
-<iframe src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129670&authkey=AEf1L9l7dTR4-HE" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<video> src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129670&authkey=AEf1L9l7dTR4-HE" controls="controls" style="max-width: 730px;" </video>
+
+<!-- <iframe src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129670&authkey=AEf1L9l7dTR4-HE" width="320" height="180" frameborder="0" scrolling="no" allowfullscreen></iframe> -->
 
 * View Princetta's Photo Album here: [Link](https://photos.app.goo.gl/vYpyf7Nq2TYtK9dZ6)
 * [Obituary](/assets/documents/PrincettaLyons2022.pdf)
