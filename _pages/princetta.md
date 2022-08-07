@@ -9,6 +9,13 @@ modified: 2022-06-23
 
 <!-- <video> src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129672&authkey=AO2DQySTT1w46SI" width="320" height="180" frameborder="0" scrolling="no" controls="controls"</video> -->
 
+<!-- Mp4 -->
+<!-- <iframe src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129672&authkey=AO2DQySTT1w46SI" width="640" height="360" frameborder="0" scrolling="no">
+</iframe> -->
+
+<!-- MOV -->
+<iframe src="https://onedrive.live.com/embed?cid=12E5DA2B27E810CC&resid=12E5DA2B27E810CC%21129673&authkey=ADid007KQMEaSR0" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
 <!-- Test from https://www.cazzulino.com/github-pages-embed-video.html -->
 <!-- <video src="https://user-images.githubusercontent.com/169707/126715420-991ad821-9ac8-4b66-b79e-e0966e0f3a89.mp4" controls="controls" style="max-width: 730px;">
 </video> -->
