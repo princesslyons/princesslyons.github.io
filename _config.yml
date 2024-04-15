@@ -11,15 +11,15 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.16.6"
+remote_theme             : "mmistakes/minimal-mistakes@4.24.0" # 4.16.6
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Princess Lyons, M.S." #<i class="fas fa-home"></i>
+title                    : "Princess P. Lyons, M.S." #<i class="fas fa-home"></i>
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Princess Lyons"
+subtitle                 : Is this the separator # site tagline that appears below site title in masthead
+name                     : "Princess P. Lyons"
 description              : "ECE PhD student and Fútbol enthusiast at the University of Florida :computer: :bar_chart: :soccer:"
 url                      : "https://www.princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "favicon-32x32.png" # Open Graph/Twitter default site image
+og_image                 : "/assets/images/favicon/favicon-32x32.png" # "favicon-32x32.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -106,7 +106,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Princess Lyons"
+  name             : "Princess P. Lyons"
   avatar           : "/assets/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "ECE Ph.D. student and Fútbol enthusiast at the University of Florida"
   location         : "Gainesville, FL"
@@ -131,21 +131,34 @@ author:
   #     icon: "fab fa-fw fa-twitter-square"
   #     url: "https://twitter.com/LyonsInTheSwamp"
 
+
 # Site Footer
 footer:
-  # links:
-    # - label: "Google Scholar"
-    #   icon: "fas fa-fw fa-user-graduate"
-    #   url: "https://scholar.google.com/citations?user=NFkozW8AAAAJ&hl=en"
-    # - label: "GitHub"
-    #   icon: "fab fa-fw fa-github"
-    #   url: "https://github.com/princesslyons"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://linkedin.com/in/princesslyons"
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-user-graduate"
+      url: "https://scholar.google.com/citations?user=NFkozW8AAAAJ&hl=en"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/princesslyons"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: "https://github.com/princesslyons"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/princesslyons"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/LyonsInTheSwamp"
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
 
 # Reading Files
 include:
