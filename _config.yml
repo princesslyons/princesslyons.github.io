@@ -20,7 +20,7 @@ title                    : "Princess P. Lyons, M.S." #<i class="fas fa-home"></i
 title_separator          : "-"
 subtitle                 : Is this the separator # site tagline that appears below site title in masthead
 name                     : "Princess P. Lyons"
-description              : "ECE PhD student and Fútbol enthusiast at the University of Florida :computer: :bar_chart: :soccer:"
+description              : "ECE PhD candidate and Fútbol enthusiast at the University of Florida :computer: :bar_chart: :soccer:"
 url                      : "https://www.princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "princesslyons/princesslyons.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Princess P. Lyons"
   avatar           : "/assets/images/plyons2011.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ECE Ph.D. student and Fútbol enthusiast at the University of Florida"
+  bio              : "ECE Ph.D. candidate and Fútbol enthusiast at the University of Florida"
   location         : "Gainesville, FL"
   email            : "princesslyons@outlook.com"
   linkedin         : "princesslyons"
