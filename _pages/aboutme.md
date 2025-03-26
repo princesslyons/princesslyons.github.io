@@ -14,7 +14,7 @@ modified: 2022-06-23
 ## Hi, I'm Princess!
 I'm a computer engineer and soccer enthusiast from downtown Chicago who enjoys watching Netflix and telenovelas, traveling and most importantly playing FIFA!
 
-I'm currently a Ph.D. student at the University of Florida (UF) working in the Florida Institute for National Security (FINS). I am a graduate research assistant in the Applied Artificial Intelligence Group with [Dr. Damon Woodard](http://damonwoodard.com) as my advisor. Here, I'm working on topics such as data analytics, machine learning and natural language processing. My current project involves cross-lingual authorship attribution.
+I'm currently a Ph.D. candidate at the University of Florida (UF) working in the Florida Institute for National Security (FINS). I am a graduate research assistant in the [Applied Artificial Intelligence Group](https://aaig.ece.ufl.edu/) with [Dr. Damon Woodard](http://damonwoodard.com) as my advisor. Here, I'm working on topics such as data analytics, machine learning and natural language processing. My current project involves cross-lingual authorship attribution.
 
 I completed a dual B.S. in Electrical and Computer Engineering as a Honors Scholar at the University of Missouri-Columbia (Mizzou) working with [Dr. Alina Zare](https://faculty.eng.ufl.edu/machine-learning/people/faculty/) where my research involved algorithm development and machine learning.
 
@@ -22,14 +22,14 @@ After undergrad, I enrolled in the masters program at UF where I studied machine
 
 ## Education
 * **Master of Science, Electrical and Computer Engineering**
-  * University of Florida, December 2019
+  * University of Florida, December
 
 * **Bachelor of Science, Computer Engineering, Honors Scholar**
   * Minors: Computer Science, Mathematics, Spanish
-  * University of Missouri - Columbia, May 2017
+  * University of Missouri - Columbia
 
 * **Bachelor of Science, Electrical Engineering, Honors Scholar**
-  * University of Missouri - Columbia, May 2017
+  * University of Missouri - Columbia
 
 ## Acknowledgements
-* My mother, who taught and cultivated an engineer: [Princetta J. Griffin-Lyons](/aboutme/princetta/)
+* My mother, my rocket fuel: [Princetta J. Griffin-Lyons](/aboutme/princetta/)
