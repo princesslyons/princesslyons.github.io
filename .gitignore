@@ -5,7 +5,9 @@ _site/
 .jekyll-metadata
 
 # Files
+.idea/
 .DS_Store
+__MACOSX/
 
 # Folders
 # _posts/
