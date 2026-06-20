@@ -11,21 +11,21 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.24.0" # 4.16.6
+remote_theme             : "mmistakes/minimal-mistakes@4.28.0" # 4.16.6
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Princess P. Lyons, M.S." #<i class="fas fa-home"></i>
 title_separator          : "-"
-subtitle                 : Is this the separator # site tagline that appears below site title in masthead
+subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Princess P. Lyons"
 description              : "ECE PhD candidate and Fútbol enthusiast at the University of Florida :computer: :bar_chart: :soccer:"
 url                      : "https://www.princesslyons.com" #"https://princesslyons.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "princesslyons/princesslyons.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/favicon/favicon-32x32.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/favicons/favicon-32x32.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -89,7 +89,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/favicon/favicon-32x32.png" # "favicon-32x32.png" # Open Graph/Twitter default site image
+og_image                 : "/favicons/favicon-32x32.png" # "favicon-32x32.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
