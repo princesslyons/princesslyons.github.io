@@ -13,7 +13,7 @@ modified: 2019-10-28
 :computer: :bar_chart: :soccer:
 
 ## Fútbol Project
-In my free time, I'm working on a project to analyze the factors of success for top European soccer teams versus the U.S.'s most successful soccer teams. It's no secret that the MLS is not as challenging many European leagues. My goal is to pinpoint key success factors that explain this disparity.
+In my free time, I'm working on a project to analyze the factors of success for top European soccer teams versus the U.S.'s most successful soccer teams. It's no secret that the MLS is not as challenging as many European leagues. My goal is to pinpoint key success factors that explain this disparity.
 
 ## Independent Study
 ### Certificates
